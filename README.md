@@ -1,2 +1,2 @@
 # baer
-Official Gitthub repository of Baer
+Official Github repository of Baer
